@@ -23,3 +23,4 @@ for x, y in checkmark_positions:
 img.save('todo_icon.ico')
 
 print("Icon created successfully: todo_icon.ico") 
+print("You can now run the installer script to create the executable.")
