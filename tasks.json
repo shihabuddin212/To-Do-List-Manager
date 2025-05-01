@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "01/05/25  Python Todo manager",
+    "description": "This system working process is input and output written details add and shows the Home Screen User interface. ",
+    "completed": true,
+    "created_at": "2025-05-01 15:11:22",
+    "completed_at": "2025-05-01 15:13:18"
+  },
+  {
+    "id": 2,
+    "title": "njgyg7t",
+    "description": "jhy87y9u",
+    "completed": false,
+    "created_at": "2025-05-01 22:29:41",
+    "completed_at": null
+  }
+]
